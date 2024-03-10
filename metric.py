@@ -11,7 +11,7 @@ from transformers import BertTokenizer, BertForSequenceClassification, Trainer, 
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 import torch
 
-hf_token = "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"
+hf_token = "blank"
 
 tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
 model = DistilBertForSequenceClassification.from_pretrained('distilbert-base-uncased', num_labels=2)
