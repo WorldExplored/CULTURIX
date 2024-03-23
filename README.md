@@ -24,6 +24,12 @@ Our study focuses on developing an advanced LLM specifically for the German lang
 
 ## Getting Started
 
+## Dataset
+
+Please download the dataset from hugging face! 
+
+https://huggingface.co/datasets/srreyS/CULTIRX_Identification
+
 ### Prerequisites
 
 Ensure you have Python 3.6+ installed on your system. You can install the necessary packages using:
