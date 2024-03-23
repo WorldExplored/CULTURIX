@@ -42,7 +42,7 @@ class CustomDataset(torch.utils.data.Dataset):
 
 def main():
     # Load and preprocess the training data
-    training_filepath = 'updated_upd.csv'
+    training_filepath = 'american_german.csv'
     df = load_data(training_filepath)
     # Optionally, reduce the size of the dataset for faster training
     df = df.sample(frac=0.01)  # Adjust the fraction as needed
