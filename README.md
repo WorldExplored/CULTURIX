@@ -56,16 +56,6 @@ The training script automatically evaluates the model on a test set and prints o
 
 We welcome contributions to improve the model and its evaluation. Please feel free to submit issues and pull requests.
 
-## License
-(BLANK)
-
-## Citation
-
-```bibtex
-CITATION
-```
-
-
 **Refereneces:** 
 
 ambrosfitz. American yawp full dataset, 2023. Hugging Face. Ashishkr. 
